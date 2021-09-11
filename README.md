@@ -1,7 +1,6 @@
 ### Hello everyone, 👋 Welcome to my Github Profile
 
-<!--
-**Radhasingh95/Radhasingh95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Linkedin](www.linkedin.com/in/radhasingh210)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love dancing 
--->
+
