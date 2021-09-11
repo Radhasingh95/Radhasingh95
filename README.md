@@ -1,9 +1,5 @@
 ### Hello everyone, 👋 Welcome to my Github Profile
 
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on improving myself by learning everything
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on Python Projects, Web Development Projects
