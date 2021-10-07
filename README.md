@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello everyone 👋, I'm Radha Singh</h1>
-<h3 align="center">A Frontend Developer, Programmer and a Sophomore at IGDTUW</h3>
+<h3 align="center">A Frontend Developer, Mentor, Programmer and a Sophomore at IGDTUW</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radhasingh95&label=Profile%20views&color=0e75b6&style=flat" alt="radhasingh95" /> </p>
 
